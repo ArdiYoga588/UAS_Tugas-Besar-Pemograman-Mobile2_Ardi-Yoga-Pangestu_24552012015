@@ -73,7 +73,7 @@ Konfigurasi Firebase dilakukan melalui:
 ### 🛍 Produk Jersey
 - Menampilkan daftar jersey sepak bola
 - Data diambil dari REST API
-- Tampilan grid card produk
+- Tampilan gambar produk
 - Informasi nama dan harga produk
 
 ---
@@ -87,7 +87,7 @@ Konfigurasi Firebase dilakukan melalui:
 ### 🛒 Pesanan
 - Keranjang pesanan
 - Pesanan aktif
-- Status pesanan
+- Di batalkan
 
 ---
 
@@ -96,13 +96,13 @@ Konfigurasi Firebase dilakukan melalui:
   Menampilkan halaman utama aplikasi dengan navigasi bawah.
 
 - **Produk**  
-  Menampilkan daftar jersey bola dalam bentuk card.
+  Menampilkan daftar jersey bola dan juga harga penambahan favorit.
 
 - **Favorite**  
   Menampilkan produk yang disukai pengguna.
 
 - **Pesanan**  
-  Menampilkan keranjang dan pesanan pengguna.
+  Menampilkan keranjang,pesanan pengguna dan pembatalan pesanan.
 
 ---
 
