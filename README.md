@@ -108,8 +108,8 @@ Konfigurasi Firebase dilakukan melalui:
 
 ## 🎯 Tujuan Proyek
 Aplikasi telah di-build sebagai **Flutter Web (PWA)** dan dideploy menggunakan **Netlify**.
-- **Memenuhi Tugas Besar Flutter
-- **Menerapkan REST API
-- **Menggunakan Firebase Authentication
-- **Deploy aplikasi ke Web sebagai PWA
+- Memenuhi Tugas Besar Flutter
+- Menerapkan REST API
+- Menggunakan Firebase Authentication
+- Deploy aplikasi ke Web sebagai PWA
 - Menerapkan navigasi multi-halaman dan UI dinamis
