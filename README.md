@@ -112,4 +112,4 @@ Aplikasi telah di-build sebagai **Flutter Web (PWA)** dan dideploy menggunakan *
 - **Menerapkan REST API
 - **Menggunakan Firebase Authentication
 - **Deploy aplikasi ke Web sebagai PWA
-- **Menerapkan navigasi multi-halaman dan UI dinamis
+- Menerapkan navigasi multi-halaman dan UI dinamis
