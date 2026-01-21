@@ -53,6 +53,11 @@ Cloud Firestore (cart_service.dart & order_service.dart)
 - Manajemen transaksi dan riwayat pesanan (order).
 - Penyimpanan katalog produk (harga, stok, dan deskripsi jersey).
 
+Firebase Services (`firebase_service.dart`)
+- Sebagai penyedia layanan utama (Base Service) untuk interaksi database.
+- Menangani konfigurasi *real-time stream* data dari Firestore.
+- Memastikan koneksi antara UI Flutter dan backend Firebase berjalan sinkron.
+
 Firebase Storage
 - Penyimpanan dan distribusi file gambar produk jersey agar aplikasi tetap ringan.
 
