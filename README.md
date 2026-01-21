@@ -46,12 +46,15 @@ Authentication (auth_service.dart)
 - Registrasi pengguna baru.
 - Login pengguna ke dalam aplikasi.
 - Manajemen identitas dan keamanan akun.
+
 Cloud Firestore (cart_service.dart & order_service.dart)
 - Penyimpanan data keranjang belanja secara real-time.
 - Manajemen transaksi dan riwayat pesanan (order).
 - Penyimpanan katalog produk (harga, stok, dan deskripsi jersey).
+
 Firebase Storage
 - Penyimpanan dan distribusi file gambar produk jersey agar aplikasi tetap ringan.
+
 Konfigurasi Firebase dilakukan melalui:
 - Firebase Console (Web App) untuk pengaturan proyek.
 - firebase_options.dart sebagai jembatan koneksi kunci API antara Flutter dan Firebase.
