@@ -1,7 +1,7 @@
 # UAS_Tugas-Besar-Pemrograman-Mobile-2  
 ## E-Commerce Jersey Bola  
-**Nama :** Ardi Yoga Pangestu  
-**NIM  :** 24552012015  
+**Nama:** Ardi Yoga Pangestu  
+**NIM:** 24552012015  
 **KELAS:** TIF RP-23 CNS A
 
 ---
