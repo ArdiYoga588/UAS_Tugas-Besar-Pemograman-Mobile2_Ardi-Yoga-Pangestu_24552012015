@@ -98,6 +98,8 @@ Konfigurasi Firebase dilakukan melalui:
   Menampilkan halaman utama aplikasi dengan navigasi bawah.
 
 - **Produk**  
+  <img src="https://github.com/user-attachments/assets/5a4b829a-e3a5-4c4c-a813-2af07d8bc703" width="300">
+
   Menampilkan daftar jersey bola dan juga harga penambahan favorit.
 
 - **Favorite**  
