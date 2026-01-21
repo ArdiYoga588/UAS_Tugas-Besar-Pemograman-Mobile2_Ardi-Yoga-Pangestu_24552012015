@@ -2,6 +2,7 @@
 ## E-Commerce Jersey Bola  
 **Nama:** Ardi Yoga Pangestu  
 **NIM:** 24552012015  
+**KELAS:** TIF RP-23 CNS A
 
 ---
 
