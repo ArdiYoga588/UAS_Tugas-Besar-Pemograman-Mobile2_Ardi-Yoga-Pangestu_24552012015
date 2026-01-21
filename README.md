@@ -100,7 +100,7 @@ Konfigurasi Firebase dilakukan melalui:
 - **Produk**  
 <p align="center">
   <img src="https://github.com/user-attachments/assets/5a4b829a-e3a5-4c4c-a813-2af07d8bc703" width="200">
-  &nbsp;&nbsp;&nbsp; <img src="https://github.com/user-attachments/assets/90d708b9-527d-429a-9da9-0d57bd48a326" width="200">
+  <img src="https://github.com/user-attachments/assets/90d708b9-527d-429a-9da9-0d57bd48a326" width="200">
 </p>
   Menampilkan daftar jersey bola dan juga harga penambahan favorit.
 
