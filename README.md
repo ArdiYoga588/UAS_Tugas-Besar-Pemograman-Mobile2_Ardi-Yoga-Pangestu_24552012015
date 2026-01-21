@@ -93,7 +93,7 @@ Konfigurasi Firebase dilakukan melalui:
 
 ## 🖼 Tampilan Aplikasi
 - **Home**  
-  ![WhatsApp Image 2026-01-22 at 00 59 23](https://github.com/user-attachments/assets/f958f13e-b018-426f-a808-cccbd113ef81)
+  <img src="https://github.com/user-attachments/assets/f958f13e-b018-426f-a808-cccbd113ef81" width="300">
 
   Menampilkan halaman utama aplikasi dengan navigasi bawah.
 
