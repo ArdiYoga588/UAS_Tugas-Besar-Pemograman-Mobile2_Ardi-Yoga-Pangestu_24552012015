@@ -95,6 +95,7 @@ Konfigurasi Firebase dilakukan melalui:
 ### 🛒 Pesanan
 - Keranjang pesanan
 - Pesanan aktif
+- Pesanan selesai
 - Di batalkan
 
 ---
