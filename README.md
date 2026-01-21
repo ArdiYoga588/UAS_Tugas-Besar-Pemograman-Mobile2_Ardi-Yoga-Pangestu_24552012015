@@ -36,21 +36,26 @@ Aplikasi ini dikembangkan sebagai **Tugas Besar Individu Pemrograman Mobile 2** 
 ### REST API (MockAPI)
 Digunakan untuk:
 - Mengambil daftar produk jersey
-- Menampilkan detail produk
+- Menampilkan detail produk,seperti ukuran dan deskripsi produk
 - Menampilkan harga dan gambar produk
 
 ---
 
 ## 🔐 Firebase
-Firebase digunakan untuk:
-- **Authentication**
-  - Login pengguna
-  - Registrasi pengguna
-
+Authentication (auth_service.dart)
+- Registrasi pengguna baru.
+- Login pengguna ke dalam aplikasi.
+- Manajemen identitas dan keamanan akun.
+Cloud Firestore (cart_service.dart & order_service.dart)
+- Penyimpanan data keranjang belanja secara real-time.
+- Manajemen transaksi dan riwayat pesanan (order).
+- Penyimpanan katalog produk (harga, stok, dan deskripsi jersey).
+Firebase Storage
+- Penyimpanan dan distribusi file gambar produk jersey agar aplikasi tetap ringan.
 Konfigurasi Firebase dilakukan melalui:
-- Firebase Web App
-- `firebase_options.dart`
-- `Firebase.initializeApp()`
+- Firebase Console (Web App) untuk pengaturan proyek.
+- firebase_options.dart sebagai jembatan koneksi kunci API antara Flutter dan Firebase.
+- Firebase.initializeApp() pada file utama (main.dart) untuk menginisialisasi layanan saat aplikasi dijalankan.`
 
 ---
 
@@ -92,9 +97,19 @@ Konfigurasi Firebase dilakukan melalui:
 ---
 
 ## 🖼 Tampilan Aplikasi
-- **Home**  
-  <img src="https://github.com/user-attachments/assets/f958f13e-b018-426f-a808-cccbd113ef81" width="200">
+- **Splash Screen****Login****Registrasi**
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ed505f69-a0bf-4f56-825e-072a6c2816a3" width="200">
+  <img src="https://github.com/user-attachments/assets/b2eac24e-1790-41a1-babe-efcd184f7f4d" width="200">
+  <img src="https://github.com/user-attachments/assets/d6e0b91d-a49c-4cd3-8d12-ec7424314fcc" width="200">
+</p>
 
+  Menampilkan splash sceen,login,dan register sebelum masuk ke E-Commerce
+
+- **Home**  
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f958f13e-b018-426f-a808-cccbd113ef81" width="200">
+</p>
   Menampilkan halaman utama aplikasi dengan navigasi bawah.
 
 - **Produk**  
@@ -104,7 +119,10 @@ Konfigurasi Firebase dilakukan melalui:
 </p>
   Menampilkan daftar jersey bola dan juga harga penambahan favorit.
 
-- **Favorite**  
+- **Favorite**
+<p align="center">
+   <img src="https://github.com/user-attachments/assets/02b2f3c2-52db-4316-8ef5-d38a43a78b19" width="200">
+</p>
   Menampilkan produk yang disukai pengguna.
 
 - **Pesanan**  
