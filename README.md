@@ -147,7 +147,7 @@ Konfigurasi Firebase dilakukan melalui:
   - pesanan aktif
   - Detail Pesanan
 <p align="center">
-    <img src="https://github.com/user-attachments/assets/c645dcda-960a-45b0-9053-af2f6d9f2cd6" width="200">
+    <img src="https://github.com/user-attachments/assets/6e51280d-8fb3-4b8f-9a4d-c30f6860559a" width="200">
     <img src="https://github.com/user-attachments/assets/f50c952a-94be-4619-bf64-0d1114ce1cb6" width="200">
 </p>
 
