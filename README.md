@@ -135,7 +135,31 @@ Konfigurasi Firebase dilakukan melalui:
 </p>
   Menampilkan produk yang disukai pengguna.
 
-- **Pesanan**  
+- **Pesanan**
+  - Keranjang pesanan
+
+  <p align="center">
+     <img src="(https://github.com/user-attachments/assets/7844e977-69bb-4cc7-a7ec-b52a9fad1382" width="200">
+    <img src="https://github.com/user-attachments/assets/cd87ab1c-a876-4433-bae2-7e0ee7203e2e" width="200">
+  </p>
+
+- **Pesanan aktif**
+- pesanan aktif
+- Detail Pesanan
+  <p align="center">
+    <img src="https://github.com/user-attachments/assets/c645dcda-960a-45b0-9053-af2f6d9f2cd6" width="200">
+    <img src="https://github.com/user-attachments/assets/f50c952a-94be-4619-bf64-0d1114ce1cb6" width="200">
+  </p>
+
+  <p align="center">
+    <img src="" width="200">
+    <img src="" width="200">
+  </p>
+
+  <p align="center">
+    <img src="" width="200">
+    <img src="" width="200">
+  </p>
   Menampilkan keranjang,pesanan pengguna dan pembatalan pesanan.
 
 ---
