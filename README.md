@@ -137,9 +137,10 @@ Konfigurasi Firebase dilakukan melalui:
 
 - **Pesanan**
   - Keranjang pesanan
+  - Konfirmasi Pesanan
 
 <p align="center">
-     <img src="(https://github.com/user-attachments/assets/7844e977-69bb-4cc7-a7ec-b52a9fad1382" width="200">
+    <img src="https://github.com/user-attachments/assets/b2ac90d3-1223-4eeb-ab4f-b97ed3f5057b" width="200">
     <img src="https://github.com/user-attachments/assets/cd87ab1c-a876-4433-bae2-7e0ee7203e2e" width="200">
 </p>
 
