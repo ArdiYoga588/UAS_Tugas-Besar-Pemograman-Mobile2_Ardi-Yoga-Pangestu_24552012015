@@ -116,24 +116,27 @@ Konfigurasi Firebase dilakukan melalui:
 
   Menampilkan splash sceen,login,dan register sebelum masuk ke E-Commerce
 
-- **Home**  
+- **Home**
+  - Halaman Home
+  - Profil & Logout
 <p align="center">
   <img src="https://github.com/user-attachments/assets/f958f13e-b018-426f-a808-cccbd113ef81" width="200">
+  <img src="https://github.com/user-attachments/assets/05cea7df-180d-4cd9-93c6-2e678216fe19" width="200">
 </p>
-  Menampilkan halaman utama aplikasi dengan navigasi bawah.
+  Menampilkan halaman utama aplikasi dengan Bottom Navigation Bar(Floating Bottom Menu) dibawahnya dan Drawer Menu di bagian kiri atas.
 
 - **Produk**  
 <p align="center">
   <img src="https://github.com/user-attachments/assets/5a4b829a-e3a5-4c4c-a813-2af07d8bc703" width="200">
   <img src="https://github.com/user-attachments/assets/90d708b9-527d-429a-9da9-0d57bd48a326" width="200">
 </p>
-  Menampilkan daftar jersey bola dan juga harga penambahan favorit.
+  Menampilkan daftar jersey bola dengan pilihan yang akan memudahkan mencari produk,penambahan favorit dan juga tampilan harga pada produk.
 
 - **Favorite**
 <p align="center">
    <img src="https://github.com/user-attachments/assets/02b2f3c2-52db-4316-8ef5-d38a43a78b19" width="200">
 </p>
-  Menampilkan produk yang disukai pengguna.
+  Menampilkan produk yang disukai pengguna yang sudah di tambahkan dari produk.
 
 - **Pesanan**
   - Keranjang pesanan
@@ -144,24 +147,28 @@ Konfigurasi Firebase dilakukan melalui:
     <img src="https://github.com/user-attachments/assets/cd87ab1c-a876-4433-bae2-7e0ee7203e2e" width="200">
 </p>
 
-- **Pesanan aktif**
+- **Pesanan Aktif**
   - pesanan aktif
   - Detail Pesanan
 <p align="center">
-    <img src="https://github.com/user-attachments/assets/6e51280d-8fb3-4b8f-9a4d-c30f6860559a" width="200">
+    <img src="https://github.com/user-attachments/assets/686651e0-93aa-436e-ab6b-c2c1954014b9" width="200">
     <img src="https://github.com/user-attachments/assets/f50c952a-94be-4619-bf64-0d1114ce1cb6" width="200">
 </p>
 
+- **Pesanan Selesai**
+    - pesanan selesai
+    - Beri ulasan
 <p align="center">
-    <img src="" width="200">
-    <img src="" width="200">
+    <img src="https://github.com/user-attachments/assets/f7f0a987-a070-4d0b-bc72-4c9b95d1c13c" width="200">
+    <img src="https://github.com/user-attachments/assets/e2bd435b-7327-479d-8362-c7b3e5ed0dbe" width="200">
 </p>
 
-  <p align="center">
-    <img src="" width="200">
-    <img src="" width="200">
-  </p>
-  Menampilkan keranjang,pesanan pengguna dan pembatalan pesanan.
+- **Pesanan Selesai**
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/6da2d8d4-acb2-4dd8-b4f6-8b59dd9e471b" width="200">
+    <img src="https://github.com/user-attachments/assets/ac93d3fc-9d7f-4039-b39e-120a121798ff" width="200">
+</p>
+  Menampilkan pesanan yang mencliputi keranjang,pesanan aktif,pesanan selesai dan pembatalan pesanan.
 
 ---
 
